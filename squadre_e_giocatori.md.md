@@ -39,12 +39,12 @@
 <ul>
 <li>GIOVAGNONI MAURO
 <blockquote>
-<p>(OK)</p>
+<p>OK</p>
 </blockquote>
 </li>
 <li>OTTOBRI SERGIO
 <blockquote>
-<p>(OK)</p>
+<p>OK</p>
 </blockquote>
 </li>
 <li>SERLONI CARLO</li>
@@ -53,29 +53,49 @@
 <p>OK</p>
 </blockquote>
 </li>
-<li>GRASSETTI GIOVANNI</li>
-<li>TOMASSETTI MARCO
+<li>GRASSETTI GIOVANNI
 <blockquote>
-<p>(NO)</p>
+<p>NO</p>
 </blockquote>
 </li>
-<li>POLLONARA DAVID</li>
+<li>TOMASSETTI MARCO
+<blockquote>
+<p>NO</p>
+</blockquote>
+</li>
+<li>POLLONARA DAVID
+<blockquote>
+<p>OK</p>
+</blockquote>
+</li>
+<li>SANTARELLI LUCIANO
+<blockquote>
+<p>OK</p>
+</blockquote>
+</li>
 </ul>
 <h2 id="o45_2020">O45_2020</h2>
 <ul>
 <li>GIOVAGNONI MAURO</li>
 <li>OTTOBRI SERGIO</li>
+<li>
+<blockquote>
+<p>NO</p>
+</blockquote>
+</li>
 <li>CANTATORI MAURO</li>
 <li>STRAMAZZOTTI MICHAEL</li>
 <li>VITTORI MAURO</li>
 <li>POLLONARA DAVID</li>
 </ul>
+<h2 id="over-50">over 50</h2>
+<p>SENTIRE sergio david giovagnoni</p>
 <h2 id="o65">O65</h2>
 <ul>
 <li>POLLONARA DAVID</li>
 <li>TEDESCO GIORGIO</li>
 </ul>
-<h2 id="giuseppucci_4a_2020">giuseppucci_4a_2020</h2>
+<h2 id="giuseppucci_4a_2020"><s>giuseppucci_4a_2020</s></h2>
 <ul>
 <li>TOMASSETTI MARCO</li>
 <li>LOSA MARCO</li>
@@ -83,7 +103,7 @@
 <li>CARDELLA SIMONE</li>
 <li>STRAMAZZOTTI MICHAEL</li>
 </ul>
-<h2 id="giuseppucci_2a_2020">giuseppucci_2a_2020</h2>
+<h2 id="giuseppucci_2a_2020"><s>giuseppucci_2a_2020</s></h2>
 <ul>
 <li>SERLONI CARLO</li>
 <li>VITTORI MAURO</li>
@@ -91,7 +111,7 @@
 <li>OTTOBRI SERGIO</li>
 <li>ONCINI ALESSANDRO</li>
 </ul>
-<h2 id="altri-possibili-giocatori">altri possibili giocatori</h2>
+<h2 id="altri-possibili-giocatori"><s>altri possibili giocatori</s></h2>
 <ul>
 <li>massei alessandro</li>
 <li>ottobri francesco</li>
